@@ -6,13 +6,20 @@
 //     the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
-public static class ComponentIds {
+public static class CoreComponentIds {
 
-    public const int TotalComponents = 0;
+    public const int GameObject = 0;
+    public const int PrefabName = 1;
+
+    public const int TotalComponents = 2;
 
     public static readonly string[] componentNames = {
+        "GameObject",
+        "PrefabName"
     };
 
     public static readonly System.Type[] componentTypes = {
+        typeof(GameObjectComponent),
+        typeof(PrefabNameComponent)
     };
 }
