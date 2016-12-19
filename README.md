@@ -1,5 +1,6 @@
 # Entitas-MostBasicGameObject
-Most basic Entitas project that simply loads a Unity prefab as a GameObject into the Scene.
+
+Basic Entitas project that loads a Unity prefab as a GameObject into the Scene.
 
 See [wiki](https://github.com/JRSerjeant/Entitas-MostBasicGameObject/wiki) for explanation.
 
