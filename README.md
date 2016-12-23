@@ -7,3 +7,7 @@ See [wiki](https://github.com/JRSerjeant/Entitas-MostBasicGameObject/wiki) for e
 Get Entitas here: https://github.com/sschmid/Entitas-CSharp
 
 Entitas Version: [0.35.0](https://github.com/sschmid/Entitas-CSharp/releases/tag/0.35.0)
+
+Also see: 
+
+[Entitas-MostBasicMoveableGameObject](https://github.com/JRSerjeant/Entitas-MostBasicMoveableGameObject)
